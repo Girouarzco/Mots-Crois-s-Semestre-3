@@ -1,0 +1,11 @@
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/bin/Debug/netcoreapp3.0/ProjetS3
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/bin/Debug/netcoreapp3.0/ProjetS3.deps.json
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/bin/Debug/netcoreapp3.0/ProjetS3.runtimeconfig.json
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/bin/Debug/netcoreapp3.0/ProjetS3.runtimeconfig.dev.json
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/bin/Debug/netcoreapp3.0/ProjetS3.dll
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/bin/Debug/netcoreapp3.0/ProjetS3.pdb
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/obj/Debug/netcoreapp3.0/ProjetS3.csprojAssemblyReference.cache
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/obj/Debug/netcoreapp3.0/ProjetS3.AssemblyInfoInputs.cache
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/obj/Debug/netcoreapp3.0/ProjetS3.AssemblyInfo.cs
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/obj/Debug/netcoreapp3.0/ProjetS3.dll
+/Users/mariusgirouard/Projects/ProjetS3/ProjetS3/obj/Debug/netcoreapp3.0/ProjetS3.pdb
